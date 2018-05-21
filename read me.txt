@@ -1,0 +1,6 @@
+Smart rocket using genetic algorithm.
+Team members
+-Swikar Sharma
+-Sunil Regmi
+
+No external dataset used.
